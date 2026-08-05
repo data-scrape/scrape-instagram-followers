@@ -33,57 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [What [Instagram Follower Data](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) Can You Collect?](#what-instagram-follower-datahttpswwwcoreclawcomutmsourcegithubutmmediumcpcutmcampaignl7utmtermutmidl7-can-you-collect)
-- [Common Use Cases](#common-use-cases)
-- [Ways to Scrape Instagram Followers](#ways-to-scrape-instagram-followers)
-- [Why [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)?](#why-coreclawhttpswwwcoreclawcomutmsourcegithubutmmediumcpcutmcampaignl7utmtermutmidl7)
-- [Supported Instagram Tools](#supported-instagram-tools)
-- [Example Output](#example-output)
-- [📝 License](#-license)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/scrape-instagram-followers?style=social)](https://github.com/data-scrape/scrape-instagram-followers)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/scrape-instagram-followers?style=social)](https://github.com/data-scrape/scrape-instagram-followers/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/scrape-instagram-followers)](https://github.com/data-scrape/scrape-instagram-followers/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/scrape-instagram-followers)](https://github.com/data-scrape/scrape-instagram-followers/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Scrape Instagram followers and following lists in bulk
-
-
-<!-- SEO keywords: scrape instagram followers, Scrape Instagram Followers -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > Learn how to scrape Instagram followers, public profile data, follower counts, biographies, business categories, and creator information using ready-to-use APIs.
 
 CoreClaw helps developers, agencies, and marketing teams collect structured public Instagram data without maintaining browser automation, proxies, or custom scraping infrastructure.
